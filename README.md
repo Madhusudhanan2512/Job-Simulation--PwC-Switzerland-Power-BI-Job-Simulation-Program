@@ -6,17 +6,17 @@ This repository showcases a collection of interactive Power BI dashboards built 
 
 ##  Dashboards Included
 
-### 1. ** PhoneNow – Customer Satisfaction and Agent KPIs**
+### 1.  PhoneNow – Customer Satisfaction and Agent KPIs
 - Focus: Agent performance, response times, and customer satisfaction.
 - KPIs Tracked: Resolution rate, CSAT scores, average handling time.
 - Goal: Optimize agent workflows and improve overall customer experience.
 
-### 2. ** Diversity and Inclusion Analytics**
+### 2.  Diversity and Inclusion Analytics
 - Focus: Workforce diversity and inclusion metrics.
 - KPIs Tracked: Gender ratio, representation at different levels, diversity hiring trends.
 - Goal: Highlight gaps and areas of improvement to support inclusive growth.
 
-### 3. ** Customer Churn Dashboard**
+### 3.  Customer Churn Dashboard
 - Focus: Analyze churn trends and identify at-risk customer segments.
 - KPIs Tracked: Churn rate, customer lifetime value, segment-wise attrition.
 - Goal: Enable proactive retention strategies based on data insights.
